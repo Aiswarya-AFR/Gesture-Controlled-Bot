@@ -106,6 +106,6 @@ Show the following number of fingers to control the robot:
 ## 📄 Notes
 - Arduino files must have a `.ino` extension and be stored in a folder with the same name as the file.
 - Ensure your Python environment has the required libraries installed (`opencv-python`, `numpy`, etc.).
-- If connection issues occur, verify your Wi-Fi credentials and check if the ESP32 IP is correct in the Python code.Skill issue of not connected after this
+- If connection issues occur, verify your Wi-Fi credentials and check if the ESP32 IP is correct in the Python code.
 
 ---
